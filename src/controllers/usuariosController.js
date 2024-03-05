@@ -1,5 +1,5 @@
 // Importa el modelo de usuario
-const User = require("../models/User");
+const User = require("../models/libroModel");
 
 // Controlador para obtener todos los usuarios
 const getUsers = async (req, res) => {
